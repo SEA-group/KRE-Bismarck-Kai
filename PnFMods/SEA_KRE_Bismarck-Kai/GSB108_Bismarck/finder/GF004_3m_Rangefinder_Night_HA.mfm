@@ -1,0 +1,17 @@
+<GF004_3m_Rangefinder_Night_HA.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF004_3m_Rangefinder_Night_HA_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF004_3m_Rangefinder_Night_HA_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF004_3m_Rangefinder_Night_HA_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/default_ao.dds	</Texture>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+</GF004_3m_Rangefinder_Night_HA.mfm>

@@ -1,1 +1,8 @@
-<GGM060_380mm_SKC_34.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGM060_380mm_SKC_34_lod1</parent><extent>4.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGM060_380mm_SKC_34</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGM060_380mm_SKC_34.model>
+<GGM060_380mm_SKC_34.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGM060_380mm_SKC_34_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGM060_380mm_SKC_34	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM060_380mm_SKC_34.model>

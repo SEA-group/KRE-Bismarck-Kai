@@ -1,1 +1,8 @@
-<GSB001_Bismarck_1941_Bow.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_Bow_lod1</parent><extent>9.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_Bow</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GSB001_Bismarck_1941_Bow.model>
+<GSB001_Bismarck_1941_Bow.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_Bow_lod1	</parent>
+	<extent>	9.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_Bow	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSB001_Bismarck_1941_Bow.model>

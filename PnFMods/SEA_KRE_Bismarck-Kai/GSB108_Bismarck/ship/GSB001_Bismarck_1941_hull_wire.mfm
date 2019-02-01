@@ -1,0 +1,14 @@
+<GSB001_Bismarck_1941_hull_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_hull_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_hull_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/ship/GSB001_Bismarck_1941_hull_mg.dds	</Texture>
+	</property>
+</GSB001_Bismarck_1941_hull_wire.mfm>

@@ -1,1 +1,9 @@
-<GGS498_150mm_SKC_28_dead.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGS498_150mm_SKC_28_dead_lod1</parent><nodefullVisual>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGS498_150mm_SKC_28_dead</nodefullVisual><extent>4.0000</extent><materialNames /><castsShadow>true</castsShadow><metaData>Wargaming | Lesta Studio</metaData></GGS498_150mm_SKC_28_dead.model>
+<GGS498_150mm_SKC_28_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGS498_150mm_SKC_28_dead_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGS498_150mm_SKC_28_dead	</nodefullVisual>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS498_150mm_SKC_28_dead.model>

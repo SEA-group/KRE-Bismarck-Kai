@@ -1,1 +1,9 @@
-<GF001_10_5m_Rangefinders_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod2</parent><extent>12.000000</extent><materialNames /><castsShadow>false</castsShadow><nodefullVisual>PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GF001_10_5m_Rangefinders_lod1.model>
+<GF001_10_5m_Rangefinders_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod2	</parent>
+	<extent>	12.000000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF001_10_5m_Rangefinders_lod1.model>
