@@ -1,9 +1,0 @@
-<GF001_10_5m_Rangefinders_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod3	</parent>
-	<extent>	20.000000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GF001_10_5m_Rangefinders_lod2.model>

@@ -1,0 +1,8 @@
+<GF004_3m_Rangefinder_Night_HA_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/lods/GF004_3m_Rangefinder_Night_HA_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/lods/GF004_3m_Rangefinder_Night_HA_lod1	</nodefullVisual>
+	<extent>	4.000000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF004_3m_Rangefinder_Night_HA_lod1.model>

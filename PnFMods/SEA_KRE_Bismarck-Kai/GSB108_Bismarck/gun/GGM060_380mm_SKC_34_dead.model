@@ -1,6 +1,6 @@
 <GGM060_380mm_SKC_34_dead.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGM060_380mm_SKC_34_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/lods/GGM060_380mm_SKC_34_dead_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

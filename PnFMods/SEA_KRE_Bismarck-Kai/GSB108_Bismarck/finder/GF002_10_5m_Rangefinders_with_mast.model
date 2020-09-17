@@ -1,6 +1,6 @@
 <GF002_10_5m_Rangefinders_with_mast.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF002_10_5m_Rangefinders_with_mast_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/lods/GF002_10_5m_Rangefinders_with_mast_lod1	</parent>
 	<extent>	6.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
