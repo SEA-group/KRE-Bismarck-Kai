@@ -25,7 +25,7 @@
 			<primitive>	Turret_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGS001_150mm_SKC_28_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

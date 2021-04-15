@@ -47,7 +47,7 @@
 			<primitive>	Director_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/finder/GF001_10_5m_Rangefinders.mfm	</mfm>
 				</material>
 			</primitiveGroup>
