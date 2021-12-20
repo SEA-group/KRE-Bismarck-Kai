@@ -574,6 +574,33 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_CM096_Platform	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	-0.9954 0.0000 -0.0961 0.0000	</row1>
+					<row2>	0.0961 0.0000 -0.9954 0.0000	</row2>
+					<row3>	-0.8007 0.3542 -1.8533 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM096_Platform_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	0.9942 0.0000 -0.1075 0.0000	</row1>
+					<row2>	0.1075 0.0000 0.9942 0.0000	</row2>
+					<row3>	0.8008 0.3537 -1.8493 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM096_Platform_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 -1.0000 0.0000 0.0000	</row2>
+					<row3>	-0.5430 0.5201 -2.3292 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_CM097_Stairway	</identifier>
 				<transform>
 					<row0>	0.0000 0.9999 0.0132 0.0000	</row0>
@@ -589,6 +616,42 @@
 					<row1>	0.9961 0.0012 -0.0878 0.0000	</row1>
 					<row2>	0.0878 -0.0131 0.9961 0.0000	</row2>
 					<row3>	0.7827 0.3587 -2.1552 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	-0.9968 0.0000 0.0803 0.0000	</row1>
+					<row2>	-0.0803 0.0000 -0.9968 0.0000	</row2>
+					<row3>	0.7125 0.3949 -3.2050 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0231 -0.9992 0.0330 0.0000	</row0>
+					<row1>	0.8929 0.0355 0.4488 0.0000	</row1>
+					<row2>	-0.4496 0.0191 0.8930 0.0000	</row2>
+					<row3>	-0.6563 0.3999 -3.6245 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 1.0000 -0.0046 0.0000	</row0>
+					<row1>	-0.9931 0.0005 0.1174 0.0000	</row1>
+					<row2>	0.1174 0.0046 0.9931 0.0000	</row2>
+					<row3>	0.7398 0.3986 -2.8694 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0008 1.0000 0.0000 0.0000	</row0>
+					<row1>	0.9968 -0.0008 0.0803 0.0000	</row1>
+					<row2>	0.0803 0.0000 -0.9968 0.0000	</row2>
+					<row3>	-0.7115 0.3949 -3.2136 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
