@@ -1,65 +1,133 @@
 <GGA043_37mm_Flak_M42_Zwilling.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	GGA043_37mm_Flak_M42_Zwilling	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_gunFire1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	-0.010152 0.164725 0.120980 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFire2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.010178 0.164725 0.120980 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFireEffect	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.000000 0.164725 0.120980 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.056726 -0.001902 -0.080549	</min>
 		<max>	0.058229 0.169078 0.123379	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	GGA043_37mm_Flak_M42_Zwilling	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_gunFire1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	-0.010152 0.164725 0.120980 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFire2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.010178 0.164725 0.120980 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFireEffect	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.000000 0.164725 0.120980 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	GGA043_37mm_Flak_M42_Zwilling	</node>
-		<geometry>
-			<vertices>	GGA043_37mm_Flak_M42_ZwillingShape.vertices	</vertices>
-			<primitive>	GGA043_37mm_Flak_M42_ZwillingShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
-					<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGA043_37mm_Flak_M42_Zwilling.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	GGA043_37mm_Flak_M42_ZwillingShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA043_37mm_Flak_M42_Zwilling	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGA043_37mm_Flak_M42_Zwilling.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA043_37mm_Flak_M42_Zwilling_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA043_37mm_Flak_M42_Zwilling	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGA043_37mm_Flak_M42_Zwilling.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA043_37mm_Flak_M42_Zwilling_lodShape2	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA043_37mm_Flak_M42_Zwilling	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGA043_37mm_Flak_M42_Zwilling.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GGA043_37mm_Flak_M42_Zwilling_lodShape3	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	GGA043_37mm_Flak_M42_Zwilling	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Bismarck-Kai/GSB108_Bismarck/gun/GGA043_37mm_Flak_M42_Zwilling.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA043_37mm_Flak_M42_ZwillingShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	6.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA043_37mm_Flak_M42_Zwilling_lodShape1	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	10.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA043_37mm_Flak_M42_Zwilling_lodShape2	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	50.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	GGA043_37mm_Flak_M42_Zwilling_lodShape3	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </GGA043_37mm_Flak_M42_Zwilling.visual>
